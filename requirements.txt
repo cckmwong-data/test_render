@@ -2,7 +2,7 @@ streamlit
 pandas
 matplotlib
 nltk
-tensorflow>=2.11.0,<2.14.0
+tensorflow
 wordcloud
 scikit-learn
 joblib
