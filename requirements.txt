@@ -1,4 +1,13 @@
 streamlit
-tensorflow
-numpy
+pandas
+matplotlib
+nltk
+tensorflow>=2.11.0,<2.14.0
+wordcloud
+scikit-learn
+joblib
+gdown
+keras
+google-api-python-client
 requests
+huggingface_hub
